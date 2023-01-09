@@ -1,0 +1,125 @@
+ 
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+ body{
+    background-color: rgb(88, 88, 102);
+    background-image: url(back3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+ }
+ header{
+   width: 800px;
+   position: relative;
+   left: 553px;
+   top: 88px;
+   height: 0px;
+   font-size: 58px;
+   font-family: cursive;
+  color:  rgb(34 21 43);
+ }
+ .drum1{
+    width: 156px;
+    height: 156px;
+    border-radius: 26px;
+    border: 10px solid rgb(126, 117, 117);
+ }
+.drumkit{
+    position: relative;
+    left: 209px;
+    top: 328px;
+    width: 1150px;
+}
+.a {
+   background-image: url(drum1.jpg);
+   font-family: cursive;
+   font-size: 17px;
+   font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+
+}
+.b {
+   background-image: url(drum3.jpg);
+   font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;  
+}
+.c {
+   background-image: url(gong.jpg);
+   font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.d {
+   background-image: url(drum2.jpg);font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.e {
+   background-image: url(guitar.jpg);font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.f {
+   background-image: url(tabla.jpg);font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.g {
+   background-image: url(flute.jpg);font-family: cursive;
+    font-size: 17px;
+    font-weight: bold;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+/* for animation  */
+.tap{
+   box-shadow: rgb(51, 54, 57);
+   opacity: 0.5;
+   color: red;
+}
+footer {
+   font-family:cursive ;
+   width: 500px;
+   position: relative;
+   left: 620px;
+   top: 379px;
+   font-size: 17px;
+
+}
+
+   h1 {
+      width: 503px;
+      
+      position: relative;
+      left: 573px;
+      height: 0px;
+      top: 214px;
+      color: rgb(77, 66, 66);
+      font-weight: 150;
+      font-family: sans-serif;
+      font-style: italic;
+      font-size: 29px;
+}
